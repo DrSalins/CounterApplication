@@ -83,4 +83,10 @@ p {
     font-size: 10px;
     width: auto;
   }
+  .counterTitle {
+    font-size: 30px;
+  }
+  .counter {
+    font-size: 25px;
+  }
 }
