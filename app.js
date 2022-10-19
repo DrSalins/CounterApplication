@@ -13,7 +13,7 @@ decrease.addEventListener("click", function () {
   }
 });
 increase.addEventListener("click", function () {
-  if (digit >= 100) {
+  if (digit >= 50) {
     alert("Sorry, we can't go higher than 100");
     digit = 0;
     document.querySelector(".counter").innerHTML = digit;
